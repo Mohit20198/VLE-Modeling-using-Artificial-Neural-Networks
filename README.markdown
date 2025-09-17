@@ -1,6 +1,6 @@
 # ANN Surrogate Model for Azeotropic Vapor-Liquid Equilibrium Prediction
 
-This repository contains the implementation of an Artificial Neural Network (ANN) surrogate model for predicting Vapor-Liquid Equilibrium (VLE) in the Ethanol-Water binary system at 101.325 kPa. The model is designed to capture the non-ideal, azeotropic behavior of this system, providing a fast and accurate alternative to traditional thermodynamic models. The project was developed as part of a study by Mohit Upadhyay at VIT Bhopal University, focusing on integrating domain knowledge with machine learning for chemical engineering applications.
+This repository contains the implementation of an Artificial Neural Network (ANN) surrogate model for predicting Vapor-Liquid Equilibrium (VLE) in the Ethanol-Water binary system at 101.325 kPa. The model is designed to capture the non-ideal, azeotropic behavior of this system, providing a fast and accurate alternative to traditional thermodynamic models. 
 
 ## Abstract
 
